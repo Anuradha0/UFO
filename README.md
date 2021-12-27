@@ -7,11 +7,11 @@ For this project we are building an HTML page that will allow us to pull up info
 
 # Results
 
-[https://github.com/ninagoodwin88/UFO/blob/main/Resources/UFO_1.PNG]
+[https://github.com/Anuradha0/UFO/blob/main/Images/Image1.PNG]
 
 When the client visits the website, they will see the basic opening and title with the image at the top, as the client scrolls down they will begin to see all the data and filters that are on the website(please see image below). The image below has five filters to choose from: date, city, state, country, and shape. These may be use one at a time or multiple filters can be entered at the same time to search for various UFO sitings.
 
-[https://github.com/ninagoodwin88/UFO/blob/main/Resources/UFO_2.PNG]
+[https://github.com/Anuradha0/UFO/blob/main/Images/Image2.PNG]
 
 
 # Summary
