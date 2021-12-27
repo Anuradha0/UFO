@@ -13,9 +13,11 @@ The client visits the website and do in-depth analysis of UFO sightings by allow
 
 # Summary
 
-With the help of Data Source. I have created a page that allows you to filter the data by: city, state, country, and shape. 
-However, there is a drawbacks in the website:
-1) Lattitude and Longitude are not included in the search filters. Clients may want to return to the exact location were the UFO was sited. 
+With the help of Data Source. I have created a page that allows you to filter the data by: city, state, country, and shape.
+
+Drawback:
+1) Lattitude and Longitude are not included in the search filters. Clients may want to return to the exact location were the UFO was sited.
+
 Recommendations:
 1) There are no UFO siting pictures included in the website. 
 2) An API call for the latitude and longitude of the siting.
